@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Hadia! 👋
 
-<!--
-**hadia-codes-stars/hadia-codes-stars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate developer from Pakistan, eager to learn, build, and collaborate on exciting tech projects.
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🌱 I’m currently learning **Web Development & Coding**
+- 🔭 I’m focused on building modern and responsive projects
+- 💬 Ask me about anything related to HTML, CSS, or basic programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools:
+- **Languages:** HTML5, CSS3, JavaScript , python
+- **Tools:** VS Code, Git, GitHub
+
+### 📬 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/hadia-safdar-115525441)
